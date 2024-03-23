@@ -126,7 +126,7 @@ function FramerSkills() {
                       >
                         {/**svgCLOSE */}
                         <svg
-                          class="w-6 h-6 text-gray-800 dark:text-white hover:text-red-600"
+                          class="w-6 h-6 text-gray-800 hover:text-red-600 sm:text-red-600"
                           aria-hidden="true"
                           xmlns="http://www.w3.org/2000/svg"
                           width="24"

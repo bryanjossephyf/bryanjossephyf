@@ -6,7 +6,7 @@ function Footer() {
           <p className="items-center gap-1 flex sm:text-[10px]">
             Made with love
             <svg
-              class="w-3 h-3 text-red-600 dark:text-white"
+              class="w-3 h-3 text-red-600"
               aria-hidden="true"
               xmlns="http://www.w3.org/2000/svg"
               fill="currentColor"
