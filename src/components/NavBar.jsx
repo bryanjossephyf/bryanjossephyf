@@ -86,6 +86,7 @@ function NavBar() {
       <button
         className="flex-col justify-center items-center hidden lg:flex"
         onClick={handClick}
+        aria-label="Menu"
       >
         <span
           className={`bg-black block transition-all duration-300 ease-out h-0.5 w-6 rounded-sm -tralate-y-0.5 ${
@@ -188,6 +189,3 @@ function NavBar() {
 
 export default NavBar;
 
-{
-  /**https://youtu.be/Yw7yWHigGKI?si=JZBa9xdHz4rBQTtH&t=2903 */
-}

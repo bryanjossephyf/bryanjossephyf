@@ -54,7 +54,7 @@ export default function Home() {
 
             <div className='flex items-center justify-between w-full lg:flex-col'> {/** */}
               <div className='w-1/2 md:w-full'>
-                <Image src={HeroImg} alt='cerebro' className='w-full h-auto  md:inline-block md:w-full' sizes='(max-width: 768px) 100vw,  (max-width:1200px) 50vw, 33vw'></Image>
+                <Image src={HeroImg} alt='cerebro' loading='lazy' className='w-full h-auto  md:inline-block md:w-full' sizes='(max-width: 768px) 100vw,  (max-width:1200px) 50vw, 33vw'></Image>
               </div>
 
               <div className='w-1/2 flex flex-col items-center self-center lg:w-full lg:text-center'>
@@ -80,4 +80,3 @@ export default function Home() {
 }
 
 
-{/**https://youtu.be/Yw7yWHigGKI?si=alvSHRttcJTcNCx6&t=17207 */}

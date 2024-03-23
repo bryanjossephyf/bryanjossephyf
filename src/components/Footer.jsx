@@ -27,7 +27,5 @@ function Footer() {
 
 export default Footer;
 
-{
-  /**https://youtu.be/Yw7yWHigGKI?si=8z4YpfgP4ASQdiAY&t=17921 */
-}
+
 
