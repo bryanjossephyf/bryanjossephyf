@@ -67,7 +67,7 @@ function About() {
 
             <div className="w-1/2 p-5 sm:w-full sm:p-0">
               <p className="text-6xl sm:text-5xl">Conoce mas sobre <span className="font-semibold text-yellow-400">mi</span></p>
-              <p className="font-semibold p-5 sm:text-base sm:text-justify">Actualmente, soy estudiante de la carrera de Gestión y Marketing. Durante mi formación, he aprendido muchas cosas relacionadas con el mundo de los negocios y el marketing. Los temas que más me atraen son la investigación de mercado y el branding. Gracias a esta carrera, he podido desarrollar mucho mi lado creativo, estratégico, analítico y lógico. Como hobby, me gusta ver series, especialmente los dibujos animados, y programar.
+              <p className="text-base p-5 sm:text-base sm:text-justify">Actualmente, soy estudiante de la carrera de Gestión y Marketing. Durante mi formación, he aprendido muchas cosas relacionadas con el mundo de los negocios y el marketing. Los temas que más me atraen son la investigación de mercado y el branding. Gracias a esta carrera, he podido desarrollar mucho mi lado creativo, estratégico, analítico y lógico. Como hobby, me gusta ver series, especialmente los dibujos animados, y programar.
                 Sigo trabajando actualmente para seguir creciendo tanto personal como profesionalmente.
               </p>
 
@@ -81,7 +81,7 @@ function About() {
 
             <div className="w-1/2 sm:w-full sm:p-0">
               <div className="sm:mb-10">
-                <ProgressMotionAbout title="Software" svg={<svg class="w-6 h-6 text-gray-800 dark:text-white" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="currentColor" viewBox="0 0 24 24">
+                <ProgressMotionAbout title="Software" svg={<svg class="w-6 h-6 text-gray-800" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="currentColor" viewBox="0 0 24 24">
                   <path fill-rule="evenodd" d="M3 4a1 1 0 0 0-1 1v14a1 1 0 0 0 1 1h18a1 1 0 0 0 1-1V5a1 1 0 0 0-1-1H3Zm4.293 5.707a1 1 0 0 1 1.414-1.414l3 3a1 1 0 0 1 0 1.414l-3 3a1 1 0 0 1-1.414-1.414L9.586 12 7.293 9.707ZM13 14a1 1 0 1 0 0 2h3a1 1 0 1 0 0-2h-3Z" clip-rule="evenodd" />
                 </svg>
                 }></ProgressMotionAbout>
@@ -105,7 +105,7 @@ function About() {
               </div>
 
               <div className="sm:mb-10">
-                <ProgressMotionAbout title="Idioma" svg={<svg class="w-6 h-6 text-gray-800 dark:text-white" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="none" viewBox="0 0 24 24">
+                <ProgressMotionAbout title="Idioma" svg={<svg class="w-6 h-6 text-gray-800 " aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="none" viewBox="0 0 24 24">
                   <path stroke="currentColor" stroke-linecap="round" stroke-width="2" d="M4.37 7.657c2.063.528 2.396 2.806 3.202 3.87 1.07 1.413 2.075 1.228 3.192 2.644 1.805 2.289 1.312 5.705 1.312 6.705M20 15h-1a4 4 0 0 0-4 4v1M8.587 3.992c0 .822.112 1.886 1.515 2.58 1.402.693 2.918.351 2.918 2.334 0 .276 0 2.008 1.972 2.008 2.026.031 2.026-1.678 2.026-2.008 0-.65.527-.9 1.177-.9H20M21 12a9 9 0 1 1-18 0 9 9 0 0 1 18 0Z" />
                 </svg>
                 } />
@@ -113,7 +113,7 @@ function About() {
               </div>
 
               <div className="sm:my-20">
-                <ProgressMotionAbout title="Cursos" svg={<svg class="w-6 h-6 text-gray-800 dark:text-white" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="currentColor" viewBox="0 0 24 24">
+                <ProgressMotionAbout title="Cursos" svg={<svg class="w-6 h-6 text-gray-800" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="currentColor" viewBox="0 0 24 24">
                   <path fill-rule="evenodd" d="M6 2a2 2 0 0 0-2 2v15a3 3 0 0 0 3 3h12a1 1 0 1 0 0-2h-2v-2h2a1 1 0 0 0 1-1V4a2 2 0 0 0-2-2h-8v16h5v2H7a1 1 0 1 1 0-2h1V2H6Z" clip-rule="evenodd" />
                 </svg>
                 } />

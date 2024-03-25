@@ -33,7 +33,7 @@ const navRedes = [
     url: "https://www.instagram.com/",
     svg: (
       <svg
-        class="w-7 h-7 dark:text-white text-blue-600 bg-white rounded-lg"
+        class="w-7 h-7  text-blue-600 bg-white rounded-lg"
         aria-hidden="true"
         xmlns="http://www.w3.org/2000/svg"
         fill="currentColor"
@@ -51,7 +51,7 @@ const navRedes = [
     url: "https://github.com/bryanjossephyf",
     svg: (
       <svg
-        class="w-7 h-7  dark:text-white text-gray-600 bg-white rounded-lg"
+        class="w-7 h-7  text-gray-600 bg-white rounded-lg"
         aria-hidden="true"
         xmlns="http://www.w3.org/2000/svg"
         fill="currentColor"
