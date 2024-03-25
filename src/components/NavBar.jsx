@@ -10,7 +10,7 @@ const customLinks = [
   { url: "/", title: "Inicio", styletail: "mr-4" },
   { url: "/about", title: "Sobre mi", styletail: "mx-4" },
   { url: "/projects", title: "Proyectos", styletail: "mx-4" },
-  { url: "/articles", title: "Blog", styletail: "ml-4" },
+  { url: "https://mypersonalblog-indol.vercel.app/blog", title: "Blog", styletail: "ml-4" },
 ];
 
 const navRedes = [
