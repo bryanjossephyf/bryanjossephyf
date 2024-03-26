@@ -12,24 +12,24 @@ function FramerSkills() {
       description: (
         <ul className="p-4">
           <li className="list-disc">
-            <a href="https://drive.google.com/file/d/17m8Tij6FyuolJhWMgkT_yQiak8pWCNGz/view?usp=sharing">Community Manager ↗︎</a>
+            <a href="https://drive.google.com/file/d/17m8Tij6FyuolJhWMgkT_yQiak8pWCNGz/view?usp=sharing">Community Manager 🔗</a>
           </li>
           <li className="list-disc">
-            <a href="https://drive.google.com/file/d/1JG6lYDorrtBJKASRf6oVqLEyJD1zG3aI/view?usp=sharing">Storytelling ↗︎</a>
+            <a href="https://drive.google.com/file/d/1JG6lYDorrtBJKASRf6oVqLEyJD1zG3aI/view?usp=sharing">Storytelling 🔗</a>
           </li>
           <li className="list-disc">
             <a href="https://drive.google.com/file/d/1aOZbSN4UzPB7ReXm0VihbOq224Xb3p2n/view?usp=sharing">
-              Marketing de Servicios ↗︎
+              Marketing de Servicios 🔗
             </a>
           </li>
           <li className="list-disc">
             <a href="https://drive.google.com/file/d/1WSq7mZBpAs0_arfR_TBEZW-wZdSwljUl/view?usp=sharing">
-              Emprendimeinto para los negocios ↗︎
+              Emprendimeinto para los negocios 🔗
             </a>
           </li>
           <li className="list-disc">
             <a href="https://drive.google.com/file/d/1oDh4VjmgAUSrMIBrhrKMUVuWJq0Q497d/view?usp=sharing">
-              Branding ↗︎
+              Branding 🔗
             </a>
           </li>
         </ul>
@@ -43,30 +43,30 @@ function FramerSkills() {
       description: (
         <ul className="p-4">
           <li className="list-disc">
-            <a href="https://drive.google.com/file/d/1ERIXez-UrHPfzgbR7AgRmHznMzu7esU0/view?usp=sharing">Backend↗︎</a>
+            <a href="https://drive.google.com/file/d/1ERIXez-UrHPfzgbR7AgRmHznMzu7esU0/view?usp=sharing">Backend 🔗</a>
           </li>
           <li className="list-disc">
             <a href="https://drive.google.com/file/d/1E1wuJghETPcSG1ph4W8xCUKb_Jn36HMX/view?usp=sharing">
-              Introduction to Cybersecurity ↗︎
+              Introduction to Cybersecurity 🔗
             </a>
           </li>
           <li className="list-disc">
             <a href="https://drive.google.com/file/d/19CFc1hAYdSIEBgYnBnXTDlthlEFExhFD/view?usp=sharing">
-              Introduccion a Bases de datos ↗︎
+              Introduccion a Bases de datos 🔗
             </a>
           </li>
           <li className="list-disc">
             <a href="https://drive.google.com/file/d/1mhT8xFoxNBYvKxF-cJuGh-XZSdboaUUG/view?usp=sharing">
-              Control deversiones - Git y GitHub ↗︎
+              Control deversiones - Git y GitHub 🔗
             </a>
           </li>
           <li className="list-disc">
             <a href="https://drive.google.com/file/d/1HLkDc1sh56egdjNaCLZ8oOE9xrBbC-Oo/view?usp=sharing">
-              Introduction to Packet Tracer ↗︎
+              Introduction to Packet Tracer 🔗
             </a>
           </li>
           <li className="list-disc">
-            <a href="https://drive.google.com/file/d/1TNMwyU8IGhF5_AKUlB36LfAM4YvVpoFo/view?usp=sharing">Python ↗︎</a>
+            <a href="https://drive.google.com/file/d/1TNMwyU8IGhF5_AKUlB36LfAM4YvVpoFo/view?usp=sharing">Python 🔗</a>
           </li>
         </ul>
       ),
