@@ -5,6 +5,9 @@ import TransitionEffect from "@/components/TransitionEffect"
 import Image from "next/image"
 
 import banner from "../../public/images/proyectBanner.png"
+import bannerImg from "../../public/images/projectsImg/banner-fremob.webp"
+
+
 const animateH1 = {
     initial: {
         opacity: 0
@@ -16,6 +19,7 @@ const animateH1 = {
         }
     }
 }
+
 
 function projects() {
     return (
@@ -37,14 +41,14 @@ function projects() {
                         <motion.a
                             whileHover={{ scale: 1.1 }}
                             whileTap={{ scale: 0.8 }}
-                            href="/" className="sm:col-span-12 col-span-5 bg-customPing overflow-hidden rounded-2xl shadow-xl">
+                            href="https://mypersonalblog-indol.vercel.app/blog/markdown-style-guide/" className="sm:col-span-12 col-span-5 bg-customPing overflow-hidden rounded-2xl shadow-xl">
                             <div className="flex flex-col">
                                 <div className="text-end mr-10 my-4 sm:my-2 sm:mr-5">
                                     <span className="text-xl sm:text-sm text-customColorText">Branding</span>
                                     <h2 className="text-5xl sm:text-3xl text-customColorText">Fremob</h2>
                                 </div>
                                 <div className="relative -right-12 sm:-right-6" >
-                                    <Image src={banner} alt="imagen de proyecto" ></Image>
+                                    <Image src={bannerImg} alt="imagen de proyecto" className="rounded-md" ></Image>
                                 </div>
                             </div>
                         </motion.a>
