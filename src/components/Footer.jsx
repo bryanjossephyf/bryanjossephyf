@@ -1,6 +1,6 @@
 function Footer() {
   return (
-    <footer className="w-full border-t border-gray-500/50 h-20 sm:h-12 sm:rounded-t-lg opacity-50">
+    <footer className="w-full border-t border-gray-500/50 h-14 sm:h-12 sm:rounded-t-lg opacity-50">
       <div className="w-full h-full flex items-center justify-between px-10">
         <div className="flex flex-col items-start opacity-50 max-w-[50%] lg:max-w-fit">
           <p className="items-center gap-1 flex sm:text-[10px]">
