@@ -18,7 +18,7 @@ function Footer() {
           </p>
         </div>
         <div className="flex flex-col-reverse gap-3 items-end">
-          <p className="opacity-50 flex sm:hidden">Last Update: March 3,2024</p>
+          <p className="opacity-50 flex sm:hidden">Last Update: May 14,2024</p>
         </div>
       </div>
     </footer>

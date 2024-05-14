@@ -81,7 +81,7 @@ function About() {
                 <p className="text-6xl sm:text-4xl sm:text-center">Mi nombre es <span className="font-bold text-yellow-400">Bryan Josseph YF</span></p>
               </div>
               <div className="w-1/2 flex justify-center sm:w-full">
-                <Image src={profileImg} className="w-80 rounded-full" alt="foto de perfil"></Image>
+                <Image src={profileImg} className="w-80 rounded-full hidden" alt="foto de perfil"></Image>
               </div>
             </div>
             <p className="text-center font-medium">Soy estudiante de la carrera de marketing 😁</p>
