@@ -41,7 +41,7 @@ function projects() {
                         <motion.a
                             whileHover={{ scale: 1.1 }}
                             whileTap={{ scale: 0.8 }}
-                            href="https://mypersonalblog-indol.vercel.app/blog/markdown-style-guide/" className="sm:col-span-12 col-span-5 bg-customPing overflow-hidden rounded-2xl shadow-xl">
+                            href="https://mypersonalblog-indol.vercel.app/blog/fremob/" className="sm:col-span-12 col-span-5 bg-customPing overflow-hidden rounded-2xl shadow-xl">
                             <div className="flex flex-col">
                                 <div className="text-end mr-10 my-4 sm:my-2 sm:mr-5">
                                     <span className="text-xl sm:text-sm text-customColorText">Branding</span>
